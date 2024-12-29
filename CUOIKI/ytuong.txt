@@ -1,0 +1,8 @@
+- phát triển thành 1 ứng dụng bảo mật và hỗ trợ học tập gồm 2 giao diện
+- giao diện 1 sử dụng opencv, face recognition để nhận diện người dùng qua webcam máy tính, mở khóa bằng 2 cách là bằng phím số hoặc bằng face,
+hiển thị tên người khi mở khóa thành công.
+- giao diện 2 là hỗ trợ học tập với 4 chức năng, nguyên hàm, tích phân, giới hạn, đồ thị
+Cho phép lưu kết quả đồ thị 
+- ứng dụng thời gian thực xem người dùng truy nhập thành công vào giao diện tính toán vào lúc nào
+
+ 
